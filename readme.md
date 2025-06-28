@@ -62,7 +62,9 @@ The fuselag of plane is made using foam sheet cutted into various pieces and the
 
 ## Flight Test
 
-[FLIGHT TEST](https://github.com/user-attachments/assets/07e1d08b-0f20-4f4b-90dc-c91eb7cb3669)
+[FLIGHT TEST](https://github.com/user-attachments/assets/4fe1304d-87b4-4691-89f3-da415da7d665)
+
+
 
 
 
