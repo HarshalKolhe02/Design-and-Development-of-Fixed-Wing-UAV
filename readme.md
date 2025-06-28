@@ -14,7 +14,7 @@ This is official repository of design and development of fixed wing UAV project 
      <li><a href="#Demensions of Aircraft">Demensions of Aircraft</a></li>
    </ol>   
     <li><a href="#Fabrication">Fabrication</a></li>
-     <li><a href="#Flight Test">Flight Test</a></li>
+     <li><a href=""#Flight Test"">Flight Test</a></li>
   </ol>
 </details>
 
@@ -61,7 +61,7 @@ The fuselag of plane is made using foam sheet cutted into various pieces and the
 ![Final_plane](https://github.com/user-attachments/assets/e6bd2a31-4a68-4d73-9fdf-137cec870b21))
 ##
 
-## Flight Test
+## FLIGHT TEST
 
 [FLIGHT TEST](https://github.com/user-attachments/assets/4fe1304d-87b4-4691-89f3-da415da7d665)
 
