@@ -20,8 +20,11 @@ This is official repository of design and development of fixed wing UAV project 
 ## DESIGN METHODOGOLGY
 ### AIRFOIL SELECTION
 Airfoil selection is done by selecting different airfoils and then analysing them using XFLR5. We found that NACA2412 with camber 4%  gives us $C_l=1$ at 4 $^\circ$ -5 $^\circ$ AOA. The simulation graphs are shown below.
+
 ![simulation  sheet](https://github.com/user-attachments/assets/2181c926-fbb7-4846-8c08-43c0063a92b5)
+
 We have designed rectangular wing using this airfoil and elevator, rudder are kept Flat.
+
 ### WEIGHT ESTIMATION
 For estimation of weight, we have found weight of each component individually and then added to get final weight of plane. 
 The estimated weight was found to be 1580 grams. The actual weight of plane (as of now) is 1350 grams.
@@ -41,19 +44,24 @@ The estimation of centre of gravity is done manually using the fact that the wei
 ### Landing gears
 We have used a  taildragger configuration of landing gear. The back landing gear is smaller allowing plane’s wing to get required angle of attack during takeoff.
 ### DIMENSIONS OF AIRCRAFT 
-The dimension of aircraft is calculated using the calculator provided by rcplanes.online . The obtained dimensions are given below.
-![dimension sheet](https://github.com/user-attachments/assets/218126f2-06c9-435b-87a4-cb1fadbd9e2e)
+The dimensions of aircraft are calculated using the standard equations of Fixed Wing Aeroplanes and are verified using the calculator Provided by rcplanes.online . 
 
 A CAD model of aircraft is prepared using this dimensions and fabrication is made with refrence to CAD model.
+
 ### CAD MODEL
+
 ![plane alternate](https://github.com/user-attachments/assets/c60b7f32-a0c7-4835-ab2e-64b91e5a383c)
+
 ## 
 ## FABRICATION
+
 The fuselag of plane is made using foam sheet cutted into various pieces and then glued together. The wings are made by using styrofoam blocks from which airfoils are made using hot wire cutter in various parts all these parts are combined using Carbon Fibre Rod. The Elevator, Ailerons and Rudder are made using foam sheet. Servos are used to move the control surfaces. The mount for motor, servo connections and landing gears are 3d printed. The Final Fabricated Plane is shown below.
 
-![Final_plane](https://github.com/user-attachments/assets/a0b9587d-4569-4402-a5d8-72ac964d0a1f)
+![Final_plane]([https://github.com/user-attachments/assets/a0b9587d-4569-4402-a5d8-72ac964d0a1f](https://github.com/user-attachments/assets/e6bd2a31-4a68-4d73-9fdf-137cec870b21))
 ##
 
+## Flight Test
+![Flight_Test](https://github.com/user-attachments/assets/a6121d64-1c35-4302-b62d-0851a6553d94)
 
 
 
