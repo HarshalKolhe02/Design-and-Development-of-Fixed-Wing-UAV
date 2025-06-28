@@ -57,11 +57,12 @@ A CAD model of aircraft is prepared using this dimensions and fabrication is mad
 
 The fuselag of plane is made using foam sheet cutted into various pieces and then glued together. The wings are made by using styrofoam blocks from which airfoils are made using hot wire cutter in various parts all these parts are combined using Carbon Fibre Rod. The Elevator, Ailerons and Rudder are made using foam sheet. Servos are used to move the control surfaces. The mount for motor, servo connections and landing gears are 3d printed. The Final Fabricated Plane is shown below.
 
-![Final_plane]([https://github.com/user-attachments/assets/a0b9587d-4569-4402-a5d8-72ac964d0a1f](https://github.com/user-attachments/assets/e6bd2a31-4a68-4d73-9fdf-137cec870b21))
+![Final_plane](https://github.com/user-attachments/assets/e6bd2a31-4a68-4d73-9fdf-137cec870b21))
 ##
 
 ## Flight Test
-![Flight_Test](https://github.com/user-attachments/assets/a6121d64-1c35-4302-b62d-0851a6553d94)
+
+[FLIGHT TEST](https://github.com/user-attachments/assets/07e1d08b-0f20-4f4b-90dc-c91eb7cb3669)
 
 
 
